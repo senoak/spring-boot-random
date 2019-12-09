@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = 'http://springbootdev-env.d2cbsy8mae.us-west-2.elasticbeanstalk.com/rest/random';
+const USER_API_BASE_URL = 'http://spring-boot-docker1.us-west-2.elasticbeanstalk.com/rest/random';
 
 class ApiService {
 
