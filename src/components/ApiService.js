@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = 'http://spring-boot-docker1.us-west-2.elasticbeanstalk.com/rest/random';
+const USER_API_BASE_URL = 'https://cors-anywhere.herokuapp.com/http://spring-boot-docker1.us-west-2.elasticbeanstalk.com/rest/random';
 
 class ApiService {
 

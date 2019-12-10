@@ -4,6 +4,7 @@ import ApiService from "./ApiService.js";
 
 class Result extends Component {
 
+
     constructor(props) {
         super(props)
         this.state = {
